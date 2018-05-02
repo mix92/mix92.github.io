@@ -1,0 +1,27 @@
+body{ width: 1420px;
+border: 2px solid green;
+padding: 5px;
+background-color:whitesmoke;}
+
+
+
+
+#entete td {width:250px;}  
+
+main {margin:2px 0px;}
+main{ overflow: auto;
+max-height: 400px;}
+
+footer{background: navy;
+color: white;
+padding: 5px;
+margin: 0px;}
+
+
+
+
+
+#d1{display: block}
+#d2,#d3,#d4{display: none}
+#info1{width:  300px;}
+#portrait{width:  250px;}
